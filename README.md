@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m Kate. I graduated from Codaisseur Academy of Amsterdam as Full stack Developer.
 You can find which skills I’ve gained in my profile section.
-My CV => http://subjectivedevelopment.com/personal-website/
+
+My CV => http://subjectivedevelopment.com/personal-website/.
+
 Recent project WeatherCast => https://angry-dubinsky-a2c973.netlify.app/.
 <!--
 **katerynapidhorna/katerynapidhorna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
